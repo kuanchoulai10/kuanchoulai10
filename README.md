@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **kuanchoulai10/kuanchoulai10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# 👋 Hi there 
+
+
+
+# 🧰 Languages and Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,gcp"/>
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,java,scala"/>
+</p>
