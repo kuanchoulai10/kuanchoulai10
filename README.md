@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 # 👋 Hi there 
 
-<div style="display: flex; gap: 35px;">
+<div style="display: flex; gap: 45px;">
   <p align="center">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"  width="49" height="49"/>
     <img src="https://skillicons.dev/icons?i=instagram"/>
@@ -50,30 +50,56 @@ Here are some ideas to get you started:
   </a>
 </p>
 
-### Web Frameworks
+### API Development
 
-<p align="center">
-  <a href="https://kcl10.com">
-    <img src="https://skillicons.dev/icons?i=fastapi,flask"/>
-  </a>
-</p>
-
+<div style="display: flex; gap: 45px;">
+  <p align="center">
+    <a href="https://kcl10.com">
+      <img src="https://skillicons.dev/icons?i=fastapi"/>
+      <img src="https://skillicons.dev/icons?i=flask"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grpc/grpc-plain.svg" width="49" height="49"/>
+    </a>
+  </p>
+</div>
 
 ### Data Engineering & Data Science
 
-<p align="center">
-  <div style="display: flex; gap: 35px;">
+<div style="display: flex; gap: 45px;">
+  <p align="center">
+    <img src="https://skillicons.dev/icons?i=kafka"/>
+    debezium
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original.svg" width="49" height="49"/>
+    flink
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apacheairflow/apacheairflow-original.svg" width="49" height="49"/>
+    iceberg
+  </p>
+</div>
+
+    ray
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" width="49" height="49"/>
+    mlflow
+    optuna
+    feast
+    kserve
+
+    dbt
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" width="49" height="49"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" width="49" height="49"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apacheairflow/apacheairflow-original.svg" width="49" height="49"/>
-    <img src="https://skillicons.dev/icons?i=kafka"/>
+    tableau
+    looker studio
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/streamlit/streamlit-original.svg" width="49" height="49"/>
-  </div>
-</p>
 
-flink
+### Databases
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" width="49" height="49"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain.svg"  width="49" height="49"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="49" height="49"/>
+bigquery
+
+
+
+
+
 
 
 ### Python
@@ -81,17 +107,5 @@ flink
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytest/pytest-original.svg" width="49" height="49"/>
 <img src="assets/uv.svg" width="49" height="49"/>
 
-### Databases
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" width="49" height="49"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain.svg"  width="49" height="49"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="49" height="49"/>
 
 
----
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" width="49" height="49"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="49" height="49"/>
-
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grpc/grpc-plain.svg" width="49" height="49"/>
