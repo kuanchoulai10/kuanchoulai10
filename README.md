@@ -15,12 +15,12 @@ Here are some ideas to get you started:
 
 # 👋 Hi there 
 
-<p align="center">
-  <div style="display: flex; gap: 35px;">
+<div style="display: flex; gap: 35px;">
+  <p align="center">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"  width="49" height="49"/>
     <img src="https://skillicons.dev/icons?i=instagram"/>
-  </div>
-</p>
+  </p>
+</div>
 
 
 # 🧰 My Toolbox
@@ -33,20 +33,6 @@ Here are some ideas to get you started:
   </a>
 </p>
 
-**AWS**
-
-- AWS Glue
-- AWS S3
-- AWS Lambda
-- AWS VPC
-
-**GCP**
-
-- GCP BigQuery
-- GCP Cloud Run
-- GCP Cloud Storage
-- GCP Pub/Sub
-- GCP Vertex AI
 
 ### Programming Languages
 
