@@ -44,11 +44,20 @@ Welcome! I'm KC (Kuan-Chou), a software engineer with a passion for data, AI, an
   </p>
 </div>
 
-# Personal Projects
+# 🛠️ Personal Projects
 
-- [*Retail Lakehouse with Debezium, Kafka, Iceberg, and Trino*](https://kcl10.com/side-projects/retail-lakehouse/)
-- [*Real-time Fraud Detection: from DataOps to MLOps*](https://kcl10.com/side-projects/data2ml-ops/)
-- [*Unified SQL-based Data Pipelines on GCP BigQuery*](https://kcl10.com/side-projects/data-mesh/)
+### [*Retail Lakehouse with Debezium, Kafka, Iceberg, and Trino*](https://kcl10.com/side-projects/retail-lakehouse/)
+
+![](https://kcl10.com/side-projects/data2ml-ops/architecture.drawio.svg)
+
+### [*Real-time Fraud Detection: from DataOps to MLOps*](https://kcl10.com/side-projects/data2ml-ops/)
+
+![](https://kcl10.com/side-projects/data2ml-ops/architecture.drawio.svg)
+
+
+### [*Unified SQL-based Data Pipelines on GCP BigQuery*](https://kcl10.com/side-projects/data-mesh/)
+
+![](https://kcl10.com/side-projects/data-mesh/static/combined.drawio.svg)
 
 See my personal website for more projects and blog posts: [***kcl10.com***](https://kcl10.com)
 
