@@ -17,8 +17,15 @@ Here are some ideas to get you started:
 
 <div style="display: flex; gap: 45px;">
   <p align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"  width="49" height="49"/>
-    <img src="https://skillicons.dev/icons?i=instagram"/>
+    <a href="https://www.linkedin.com/in/kuanchoulai/">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="49" height="49"/>
+    </a>
+    <a href="https://kcl10.com">
+      <img src="assets/avatar-sunset-circle.png"width="49" height="49"/>
+    </a>
+    <a href="https://instagram.com/kc.dev10">
+      <img src="https://skillicons.dev/icons?i=instagram"/>
+    </a>
   </p>
 </div>
 
@@ -42,7 +49,7 @@ Here are some ideas to get you started:
   </a>
 </p>
 
-### DevOps Tools
+### DevOps
 
 <p align="center">
   <a href="https://kcl10.com">
@@ -50,7 +57,7 @@ Here are some ideas to get you started:
   </a>
 </p>
 
-### Data Engineering & Data Science
+### Data & ML
 
 <div style="display: flex; gap: 45px;">
   <p align="center">
