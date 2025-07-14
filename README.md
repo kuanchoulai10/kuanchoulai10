@@ -48,7 +48,7 @@ Welcome! I'm KC (Kuan-Chou), a software engineer with a passion for data, AI, an
 
 ### [*Retail Lakehouse with Debezium, Kafka, Iceberg, and Trino*](https://kcl10.com/side-projects/retail-lakehouse/)
 
-![](https://kcl10.com/side-projects/data2ml-ops/architecture.drawio.svg)
+![](https://kcl10.com/side-projects/retail-lakehouse/architecture.drawio.svg)
 
 ### [*Real-time Fraud Detection: from DataOps to MLOps*](https://kcl10.com/side-projects/data2ml-ops/)
 
