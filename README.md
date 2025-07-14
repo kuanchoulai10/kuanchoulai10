@@ -33,6 +33,21 @@ Here are some ideas to get you started:
   </a>
 </p>
 
+**AWS**
+
+- AWS Glue
+- AWS S3
+- AWS Lambda
+- AWS VPC
+
+**GCP**
+
+- GCP BigQuery
+- GCP Cloud Run
+- GCP Cloud Storage
+- GCP Pub/Sub
+- GCP Vertex AI
+
 ### Programming Languages
 
 <p align="center">
@@ -57,25 +72,40 @@ Here are some ideas to get you started:
   </a>
 </p>
 
+
+### Data Engineering & Data Science
+
 <p align="center">
-  <div style="display: flex; gap: 30px;">
+  <div style="display: flex; gap: 35px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original.svg" width="49" height="49"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" width="49" height="49"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" width="49" height="49"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" width="49" height="49"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apacheairflow/apacheairflow-original.svg" width="49" height="49"/>
+    <img src="https://skillicons.dev/icons?i=kafka"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/streamlit/streamlit-original.svg" width="49" height="49"/>
   </div>
 </p>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg"  width="49" height="49"/>
+flink
+
+
+### Python
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytest/pytest-original.svg" width="49" height="49"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg"  width="49" height="49"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apacheairflow/apacheairflow-original.svg"  width="49" height="49"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"  width="49" height="49"/>
-<img src="https://skillicons.dev/icons?i=kafka"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grpc/grpc-plain.svg"  width="49" height="49"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/streamlit/streamlit-original.svg"  width="49" height="49"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg"  width="49" height="49"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain.svg"  width="49" height="49"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"  width="49" height="49"/>
-
 <img src="assets/uv.svg" width="49" height="49"/>
+
+### Databases
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" width="49" height="49"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain.svg"  width="49" height="49"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="49" height="49"/>
+
+
+---
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" width="49" height="49"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="49" height="49"/>
+
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grpc/grpc-plain.svg" width="49" height="49"/>
