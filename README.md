@@ -119,18 +119,14 @@ Here are some ideas to get you started:
     <a href="https://kcl10.com"> <img src="https://skillicons.dev/icons?i=fastapi"/> </a>
     <a href="https://kcl10.com"> <img src="https://skillicons.dev/icons?i=flask"/> </a>
     <a href="https://kcl10.com"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grpc/grpc-plain.svg" width="49" height="49"/> </a>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytest/pytest-original.svg" width="49" height="49"/>
   </p>
 </div>
 
-### Python
 
+<!-- UV
 <div style="display: flex; gap: 45px;">
   <p align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytest/pytest-original.svg" width="49" height="49"/>
     <img src="assets/uv.svg" width="49" height="49"/>
   </p>
-</div>
-
-
-
-
+</div> -->
