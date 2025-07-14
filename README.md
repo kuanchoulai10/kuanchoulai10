@@ -11,11 +11,24 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+
+
+https://shields.io/
+https://simpleicons.org/
+https://github.com/tandpfun/skill-icons
+https://devicon.dev/
+
+Example GitHub Profile:
+- https://github.com/CyrisXD/CyrisXD/blob/master/README.md
 -->
 
 # 👋 Hi there 
 
 ![](assets/header.gif)
+
+Welcome! I'm KC (Kuan-Chou), a software engineer with a passion for data, AI, and continuous learning. You can find me at:
+
 
 <div style="display: flex; gap: 45px;">
   <p align="center">
@@ -31,6 +44,13 @@ Here are some ideas to get you started:
   </p>
 </div>
 
+# Personal Projects
+
+- [*Retail Lakehouse with Debezium, Kafka, Iceberg, and Trino*](https://kcl10.com/side-projects/retail-lakehouse/)
+- [*Real-time Fraud Detection: from DataOps to MLOps*](https://kcl10.com/side-projects/data2ml-ops/)
+- [*Unified SQL-based Data Pipelines on GCP BigQuery*](https://kcl10.com/side-projects/data-mesh/)
+
+See my personal website for more projects and blog posts: [***kcl10.com***](https://kcl10.com)
 
 # 🧰 My Toolbox
 
