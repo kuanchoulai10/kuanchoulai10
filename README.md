@@ -50,18 +50,6 @@ Here are some ideas to get you started:
   </a>
 </p>
 
-### API Development
-
-<div style="display: flex; gap: 45px;">
-  <p align="center">
-    <a href="https://kcl10.com">
-      <img src="https://skillicons.dev/icons?i=fastapi"/>
-      <img src="https://skillicons.dev/icons?i=flask"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grpc/grpc-plain.svg" width="49" height="49"/>
-    </a>
-  </p>
-</div>
-
 ### Data Engineering & Data Science
 
 <div style="display: flex; gap: 45px;">
@@ -70,24 +58,33 @@ Here are some ideas to get you started:
     debezium
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original.svg" width="49" height="49"/>
     flink
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apacheairflow/apacheairflow-original.svg" width="49" height="49"/>
     iceberg
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apacheairflow/apacheairflow-original.svg" width="49" height="49"/>
   </p>
 </div>
 
+<div style="display: flex; gap: 45px;">
+  <p align="center">
     ray
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" width="49" height="49"/>
     mlflow
     optuna
     feast
     kserve
+  </p>
+</div>
 
+<div style="display: flex; gap: 45px;">
+  <p align="center">
     dbt
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" width="49" height="49"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" width="49" height="49"/>
     tableau
     looker studio
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/streamlit/streamlit-original.svg" width="49" height="49"/>
+  </p>
+</div>
+
 
 ### Databases
 
@@ -97,10 +94,15 @@ Here are some ideas to get you started:
 bigquery
 
 
+### API Development
 
-
-
-
+<div style="display: flex; gap: 45px;">
+  <p align="center">
+    <a href="https://kcl10.com"> <img src="https://skillicons.dev/icons?i=fastapi"/> </a>
+    <a href="https://kcl10.com"> <img src="https://skillicons.dev/icons?i=flask"/> </a>
+    <a href="https://kcl10.com"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grpc/grpc-plain.svg" width="49" height="49"/> </a>
+  </p>
+</div>
 
 ### Python
 
