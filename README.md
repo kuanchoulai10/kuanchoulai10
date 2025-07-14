@@ -55,10 +55,11 @@ Here are some ideas to get you started:
 <div style="display: flex; gap: 45px;">
   <p align="center">
     <img src="https://skillicons.dev/icons?i=kafka"/>
-    debezium
+    <img src="assets/debezium.svg" width="49" height="49"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original.svg" width="49" height="49"/>
-    flink
-    iceberg
+    <img src="assets/flink.svg" width="49" height="49"/>
+    <img src="assets/iceberg.png" width="49" height="49"/>
+    <img src="assets/trino.png" width="49" height="49"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apacheairflow/apacheairflow-original.svg" width="49" height="49"/>
   </p>
 </div>
@@ -86,12 +87,15 @@ Here are some ideas to get you started:
 </div>
 
 
-### Databases
+### Databases 
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" width="49" height="49"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain.svg"  width="49" height="49"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="49" height="49"/>
-bigquery
+<div style="display: flex; gap: 45px;">
+  <p align="center">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" width="49" height="49"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain.svg"  width="49" height="49"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="49" height="49"/>
+  </p>
+</div>
 
 
 ### API Development
@@ -106,8 +110,13 @@ bigquery
 
 ### Python
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytest/pytest-original.svg" width="49" height="49"/>
-<img src="assets/uv.svg" width="49" height="49"/>
+<div style="display: flex; gap: 45px;">
+  <p align="center">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytest/pytest-original.svg" width="49" height="49"/>
+    <img src="assets/uv.svg" width="49" height="49"/>
+  </p>
+</div>
+
 
 
 
