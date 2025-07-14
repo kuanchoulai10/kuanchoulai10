@@ -16,13 +16,11 @@ Here are some ideas to get you started:
 # 👋 Hi there 
 
 <p align="center">
-  <div style="display: flex; gap: 30px;">
+  <div style="display: flex; gap: 35px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"  width="49" height="49"/>
     <img src="https://skillicons.dev/icons?i=instagram"/>
   </div>
 </p>
-
-
 
 
 # 🧰 My Toolbox
@@ -79,3 +77,5 @@ Here are some ideas to get you started:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg"  width="49" height="49"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain.svg"  width="49" height="49"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"  width="49" height="49"/>
+
+<img src="assets/uv.svg" width="49" height="49"/>
