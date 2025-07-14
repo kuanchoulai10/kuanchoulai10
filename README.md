@@ -57,7 +57,7 @@ Here are some ideas to get you started:
     <img src="https://skillicons.dev/icons?i=kafka"/>
     <img src="assets/debezium.svg" width="49" height="49"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original.svg" width="49" height="49"/>
-    <img src="assets/flink.svg" width="49" height="49"/>
+    <img src="assets/flink.png" width="49" height="49"/>
     <img src="assets/iceberg.png" width="49" height="49"/>
     <img src="assets/trino.png" width="49" height="49"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apacheairflow/apacheairflow-original.svg" width="49" height="49"/>
@@ -66,22 +66,27 @@ Here are some ideas to get you started:
 
 <div style="display: flex; gap: 45px;">
   <p align="center">
-    ray
+    <img src="assets/ray.png" width="49" height="49"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" width="49" height="49"/>
-    mlflow
-    optuna
-    feast
-    kserve
+    <img src="assets/mlflow.png" width="49" height="49"/>
+    <img src="assets/optuna.png" width="49" height="49"/>
+    <img src="assets/feast.png" width="49" height="49"/>
+    <img src="assets/kserve.png" width="49" height="49"/>
   </p>
 </div>
 
 <div style="display: flex; gap: 45px;">
   <p align="center">
-    dbt
+    <img src="assets/dbt.png" width="49" height="49"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" width="49" height="49"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" width="49" height="49"/>
-    tableau
-    looker studio
+  </p>
+</div>
+
+<div style="display: flex; gap: 45px;">
+  <p align="center">
+    <img src="assets/tableau.png" width="49" height="49"/>
+    <img src="assets/looker-studio.svg" width="49" height="49"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/streamlit/streamlit-original.svg" width="49" height="49"/>
   </p>
 </div>
