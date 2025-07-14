@@ -17,7 +17,9 @@ Here are some ideas to get you started:
 
 
 
-# 🧰 Languages and Tools
+# 🧰 My Toolbox
+
+## Cloud Platforms
 
 <p align="center">
   <a href="https://kcl10.com">
@@ -25,17 +27,23 @@ Here are some ideas to get you started:
   </a>
 </p>
 
+## Programming Languages
+
 <p align="center">
   <a href="https://kcl10.com">
     <img src="https://skillicons.dev/icons?i=py,java,scala,bash"/>
   </a>
 </p>
 
+## DevOps
+
 <p align="center">
   <a href="https://kcl10.com">
     <img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,githubactions"/>
   </a>
 </p>
+
+## Web Frameworks
 
 <p align="center">
   <a href="https://kcl10.com">
@@ -46,4 +54,16 @@ Here are some ideas to get you started:
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original.svg" width="40" height="40"/>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" width="20" height="20"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" width="40" height="40"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg"  width="40" height="40"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytest/pytest-original.svg"  width="40" height="40"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg"  width="40" height="40"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apacheairflow/apacheairflow-original.svg"  width="40" height="40"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"  width="40" height="40"/>
+
+<img src="https://skillicons.dev/icons?i=kafka"/>
