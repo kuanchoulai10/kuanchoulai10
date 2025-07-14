@@ -15,18 +15,18 @@ Here are some ideas to get you started:
 
 # 👋 Hi there 
 
-<div style="display: flex; gap: 45px;">
-  <p align="center">
-    <a href="https://www.linkedin.com/in/kuanchoulai/">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="49" height="49"/>
-    </a>
-    <a href="https://kcl10.com">
-      <img src="assets/avatar-sunset-circle.png"width="49" height="49"/>
-    </a>
-    <a href="https://instagram.com/kc.dev10">
-      <img src="https://skillicons.dev/icons?i=instagram"/>
-    </a>
-  </p>
+![](assets/header.gif)
+
+<div style="display: flex; justify-content: center; gap: 45px;">
+  <a href="https://www.linkedin.com/in/kuanchoulai/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="49" height="49"/>
+  </a>
+  <a href="https://kcl10.com" target="_blank">
+    <img src="assets/avatar-sunset-circle.png" width="49" height="49"/>
+  </a>
+  <a href="https://instagram.com/kc.dev10" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram"/>
+  </a>
 </div>
 
 
