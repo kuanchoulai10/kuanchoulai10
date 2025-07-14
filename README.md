@@ -20,9 +20,30 @@ Here are some ideas to get you started:
 # 🧰 Languages and Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,gcp"/>
+  <a href="https://kcl10.com">
+    <img src="https://skillicons.dev/icons?i=aws,gcp"/>
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,java,scala"/>
+  <a href="https://kcl10.com">
+    <img src="https://skillicons.dev/icons?i=py,java,scala,bash"/>
+  </a>
 </p>
+
+<p align="center">
+  <a href="https://kcl10.com">
+    <img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,githubactions"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://kcl10.com">
+    <img src="https://skillicons.dev/icons?i=fastapi,flask"/>
+  </a>
+</p>
+
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original.svg" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" />
