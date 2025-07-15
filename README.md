@@ -169,6 +169,7 @@ See my personal website for more projects and blog posts: [***kcl10.com***](http
 
 <div style="display: flex; gap: 45px;">
   <p align="center">
+    <img src="assets/pulsar.svg" width="49" height="49"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/elasticsearch/elasticsearch-original.svg" width="49" height="49"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/argocd/argocd-original.svg" width="49" height="49"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grafana/grafana-original.svg" width="49" height="49"/>
