@@ -32,7 +32,26 @@ Example GitHub Profile:
 
 Welcome! I'm KC (Kuan-Chou), a software engineer with a passion for data, ML and AI. You can find me at:
 
-<a href="https://medium.kcl10.com">
+<div style="display: flex; justify-content: center; align-items: center; gap: 16px; margin-top: 20px;">
+  <a href="https://medium.kcl10.com" style="text-decoration: none;">
+    <img src="https://cdn.simpleicons.org/medium" height="32" width="32" />
+  </a>
+  <a href="https://instagram.com/kc.dev10" style="text-decoration: none;">
+    <img src="https://cdn.simpleicons.org/instagram/000000" height="32" width="32" />
+  </a>
+  <a href="https://kcl10.com" style="text-decoration: none;">
+    <img src="https://cdn.simpleicons.org/homepage/000000" height="32" width="32" />
+  </a>
+  <a href="https://www.linkedin.com/in/kuanchoulai/" style="text-decoration: none;">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/linkedin.svg" height="32" width="32"/>
+  </a>
+  <a href="https://github.com/kuanchoulai10" style="text-decoration: none;">
+    <img src="https://cdn.simpleicons.org/github" height="32" width="32" />
+  </a>
+</div>
+
+
+<!-- <a href="https://medium.kcl10.com">
   <img src="https://cdn.simpleicons.org/medium" height="32" width="32" />
 </a>
 <a href="https://instagram.com/kc.dev10">
@@ -46,7 +65,7 @@ Welcome! I'm KC (Kuan-Chou), a software engineer with a passion for data, ML and
 </a>
 <a href="https://github.com/kuanchoulai10">
   <img src="https://cdn.simpleicons.org/github" height="32" width="32" />
-</a>
+</a> -->
 
 <!-- <div style="display: flex; gap: 45px;">
   <p align="center">
