@@ -182,8 +182,8 @@ See my personal website for more projects and blog posts: [***kcl10.com***](http
   <p align="center">
     <img src="https://raw.githubusercontent.com/a2aproject/A2A/refs/heads/main/docs/assets/adk.svg" width="49" height="49"/>
     <img src="https://raw.githubusercontent.com/a2aproject/A2A/refs/heads/main/docs/assets/a2a-logo-black.svg" width="49" height="49"/>
-    <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/1.55.0/files/dark/mcp.png" width="49" height="49"/>
-    <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/1.55.0/files/dark/openai.png" width="49" height="49"/>
+    <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/1.55.0/files/light/mcp.png" width="49" height="49"/>
+    <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/1.55.0/files/light/openai.png" width="49" height="49"/>
     <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/1.55.0/files/dark/pydanticai-color.png" width="49" height="49"/>
     <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/1.55.0/files/dark/n8n-color.png" width="49" height="49"/>
   </p>
