@@ -20,6 +20,7 @@ https://github.com/tandpfun/skill-icons
 https://devicon.dev/
 https://www.svgrepo.com/collection/colored-svg-logos/
 https://gcpicons.com/icons/
+https://lobehub.com/icons
 
 Example GitHub Profile:
 - https://github.com/CyrisXD/CyrisXD/blob/master/README.md
@@ -62,19 +63,6 @@ Welcome! I'm KC (Kuan-Chou), a software engineer with a passion for data, AI, an
 ![](https://kcl10.com/side-projects/data-mesh/static/combined.drawio.svg)
 
 See my personal website for more projects and blog posts: [***kcl10.com***](https://kcl10.com)
-
-# 🌱 Learning in Progress
-<div style="display: flex; gap: 45px;">
-  <p align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/elasticsearch/elasticsearch-original.svg" width="49" height="49"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/argocd/argocd-original.svg" width="49" height="49"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grafana/grafana-original.svg" width="49" height="49"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prometheus/prometheus-original.svg" width="49" height="49"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opentelemetry/opentelemetry-original.svg" width="49" height="49"/>
-    <img src="https://www.svgrepo.com/show/353978/kong-icon.svg" width="49" height="49"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/envoy/envoy-original.svg" width="49" height="49"/>
-  </p>
-</div>
 
 
 # 🧰 My Toolbox
@@ -175,3 +163,37 @@ See my personal website for more projects and blog posts: [***kcl10.com***](http
     <img src="assets/uv.svg" width="49" height="49"/>
   </p>
 </div> -->
+
+
+# 🌱 Learning in Progress
+
+<div style="display: flex; gap: 45px;">
+  <p align="center">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/elasticsearch/elasticsearch-original.svg" width="49" height="49"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/argocd/argocd-original.svg" width="49" height="49"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grafana/grafana-original.svg" width="49" height="49"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prometheus/prometheus-original.svg" width="49" height="49"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opentelemetry/opentelemetry-original.svg" width="49" height="49"/>
+
+  </p>
+</div>
+
+<div style="display: flex; gap: 45px;">
+  <p align="center">
+    <img src="https://raw.githubusercontent.com/a2aproject/A2A/refs/heads/main/docs/assets/adk.svg" width="49" height="49"/>
+    <img src="https://raw.githubusercontent.com/a2aproject/A2A/refs/heads/main/docs/assets/a2a-logo-black.svg" width="49" height="49"/>
+    <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/1.55.0/files/dark/mcp.png" width="49" height="49"/>
+    <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/1.55.0/files/dark/openai.png" width="49" height="49"/>
+    <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/1.55.0/files/dark/pydanticai-color.png" width="49" height="49"/>
+    <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/1.55.0/files/dark/n8n-color.png" width="49" height="49"/>
+  </p>
+</div>
+
+
+<div style="display: flex; gap: 45px;">
+  <p align="center">
+    <img src="https://www.svgrepo.com/show/353978/kong-icon.svg" width="49" height="49"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/envoy/envoy-original.svg" width="49" height="49"/>
+  </p>
+</div>
+
