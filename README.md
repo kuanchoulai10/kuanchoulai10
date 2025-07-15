@@ -32,27 +32,23 @@ Example GitHub Profile:
 
 Welcome! I'm KC (Kuan-Chou), a software engineer with a passion for data, ML and AI. You can find me at:
 
-<div style="display: flex; gap: 45px;">
-  <p align="center">
-    <a href="https://medium.kcl10.com">
-      <img src="https://cdn.simpleicons.org/medium" height="32" width="32" />
-    </a>
-    <a href="https://instagram.com/kc.dev10">
-      <img src="https://cdn.simpleicons.org/instagram/000000" height="32" width="32" />
-    </a>
-    <a href="https://kcl10.com">
-      <img src="https://cdn.simpleicons.org/homepage/000000" height="32" width="32" />
-    </a>
-    <a href="https://www.linkedin.com/in/kuanchoulai/">
-      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/linkedin.svg" height="32" width="32"/>
-    </a>
-    <a href="https://github.com/kuanchoulai10">
-      <img src="https://cdn.simpleicons.org/github" height="32" width="32" />
-    </a>
-  </p>
-</div>
+<a href="https://medium.kcl10.com">
+  <img src="https://cdn.simpleicons.org/medium" height="32" width="32" />
+</a>
+<a href="https://instagram.com/kc.dev10">
+  <img src="https://cdn.simpleicons.org/instagram/000000" height="32" width="32" />
+</a>
+<a href="https://kcl10.com">
+  <img src="https://cdn.simpleicons.org/homepage/000000" height="32" width="32" />
+</a>
+<a href="https://www.linkedin.com/in/kuanchoulai/">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/linkedin.svg" height="32" width="32"/>
+</a>
+<a href="https://github.com/kuanchoulai10">
+  <img src="https://cdn.simpleicons.org/github" height="32" width="32" />
+</a>
 
-<div style="display: flex; gap: 45px;">
+<!-- <div style="display: flex; gap: 45px;">
   <p align="center">
     <a href="https://www.linkedin.com/in/kuanchoulai/">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="49" height="49"/>
@@ -64,7 +60,7 @@ Welcome! I'm KC (Kuan-Chou), a software engineer with a passion for data, ML and
       <img src="https://skillicons.dev/icons?i=instagram"/>
     </a>
   </p>
-</div>
+</div> -->
 
 When I'm not writing code, you'll probably find me vibing to some *R&B*, *Hip-Hop*, or chilling out with *Jazz* and *Neo Soul*. I also love discovering classics in *Funk* and *City Pop*. **Music is my daily fuel** 🎶
 
@@ -72,12 +68,10 @@ Check out the song what I'm currently listening to:
 
 <p dir="auto" align="center"><a href="https://spotify-github-profile.kittinanx.com/api/view?uid=abscorpio1025&amp;redirect=true" rel="nofollow"><img src="https://camo.githubusercontent.com/00ab3f19b4f835d711738be8d67bdde5f5e384098c37ae7a18967e40094976fe/68747470733a2f2f73706f746966792d6769746875622d70726f66696c652e6b697474696e616e782e636f6d2f6170692f766965773f7569643d616273636f7270696f3130323526636f7665725f696d6167653d74727565267468656d653d64656661756c742673686f775f6f66666c696e653d66616c7365266261636b67726f756e645f636f6c6f723d31323132313226696e7465726368616e67653d74727565266261725f636f6c6f723d376437643764266261725f636f6c6f725f636f7665723d74727565" alt="spotify-github-profile" data-canonical-src="https://spotify-github-profile.kittinanx.com/api/view?uid=abscorpio1025&amp;cover_image=true&amp;theme=default&amp;show_offline=false&amp;background_color=121212&amp;interchange=true&amp;bar_color=7d7d7d&amp;bar_color_cover=true" style="max-width: 100%;"></a></p>
 
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/linkedin.svg" width="32" height="32" />
-</p>
 
-
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=abscorpio1025&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=7d7d7d&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=abscorpio1025&redirect=true)
+<!-- [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=abscorpio1025&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=7d7d7d&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=abscorpio1025&redirect=true) -->
+<!-- https://spotify-github-profile.kittinanx.com/ -->
+<!-- https://github.com/kittinan/spotify-github-profile -->
 
 <img src="https://media.giphy.com/media/Vuw9m5wXviFIQ/source.gif" width="280" height="auto" />
 
