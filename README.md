@@ -194,6 +194,9 @@ See my personal website for more projects and blog posts: [***kcl10.com***](http
   <p align="center">
     <img src="https://www.svgrepo.com/show/353978/kong-icon.svg" width="49" height="49"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/envoy/envoy-original.svg" width="49" height="49"/>
+    <img src="https://api.civo.com/k3s-marketplace/istio.png" width="49" height="49"/>
+    <img src="https://knative.dev/docs/images/logo/rgb/knative-logo-rgb.png" width="49" height="49"/>
+    <img src="https://blog.crossplane.io/content/images/2023/09/crossplane-icon-color.png" width="49" height="49"/>
   </p>
 </div>
 
