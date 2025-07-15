@@ -18,6 +18,8 @@ https://shields.io/
 https://simpleicons.org/
 https://github.com/tandpfun/skill-icons
 https://devicon.dev/
+https://www.svgrepo.com/collection/colored-svg-logos/
+https://gcpicons.com/icons/
 
 Example GitHub Profile:
 - https://github.com/CyrisXD/CyrisXD/blob/master/README.md
@@ -43,6 +45,20 @@ Welcome! I'm KC (Kuan-Chou), a software engineer with a passion for data, AI, an
     </a>
   </p>
 </div>
+
+# 🌱 Learning in Progress
+<div style="display: flex; gap: 45px;">
+  <p align="center">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/elasticsearch/elasticsearch-original.svg" width="49" height="49"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/argocd/argocd-original.svg" width="49" height="49"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grafana/grafana-original.svg" width="49" height="49"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prometheus/prometheus-original.svg" width="49" height="49"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opentelemetry/opentelemetry-original.svg" width="49" height="49"/>
+    <img src="https://www.svgrepo.com/show/353978/kong-icon.svg" width="49" height="49"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/envoy/envoy-original.svg" width="49" height="49"/>
+  </p>
+</div>
+
 
 # 🛠️ Personal Projects
 
