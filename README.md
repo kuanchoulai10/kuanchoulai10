@@ -53,20 +53,6 @@ Welcome! I'm KC (Kuan-Chou), a software engineer with a passion for data, ML and
 </div>
 
 
-<!-- <div style="display: flex; gap: 45px;">
-  <p align="center">
-    <a href="https://www.linkedin.com/in/kuanchoulai/">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="49" height="49"/>
-    </a>
-    <a href="https://kcl10.com">
-      <img src="assets/avatar-sunset-circle.png" width="49" height="49"/>
-    </a>
-    <a href="https://instagram.com/kc.dev10">
-      <img src="https://skillicons.dev/icons?i=instagram"/>
-    </a>
-  </p>
-</div> -->
-
 When I'm not writing code, you'll probably find me vibing to some *R&B*, *Hip-Hop*, or chilling out with *Jazz* and *Neo Soul*. I also love discovering classics in *Funk* and *City Pop*. **Music is my daily fuel** 🎶
 
 Check out the song what I'm currently listening to:
@@ -78,7 +64,9 @@ Check out the song what I'm currently listening to:
 <!-- https://spotify-github-profile.kittinanx.com/ -->
 <!-- https://github.com/kittinan/spotify-github-profile -->
 
-<img src="https://media.giphy.com/media/Vuw9m5wXviFIQ/source.gif" width="280" height="auto" />
+<p align="center">
+  <img src="https://media.giphy.com/media/Vuw9m5wXviFIQ/source.gif" width="280" height="auto" />
+</p>
 
 # 🛠️ Personal Projects
 
