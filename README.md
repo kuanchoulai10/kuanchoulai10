@@ -51,9 +51,9 @@ When I'm not writing code, you'll probably find me vibing to some *R&B*, *Hip-Ho
 
 Check out my Spotify profile to see what I'm currently listening to:
 
-<p align="center">
-  [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=abscorpio1025&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=7d7d7d&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=abscorpio1025&redirect=true)
-</p>
+<div style="display: flex; gap: 45px; justify-content: center;">
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=abscorpio1025&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=7d7d7d&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=abscorpio1025&redirect=true)
+</div>
 
 # 🛠️ Personal Projects
 
